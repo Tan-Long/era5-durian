@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+.DS_Store
+*.nc
+era5_monthly_2016_2025/
+era5_monthly_presampling_10y/
+era5land_cds_2026/
