@@ -1,6 +1,8 @@
-# ERA5 Durian
+# ERA5 Durian Orchard Climate
 
-Scripts and Excel outputs for extracting ERA5/ERA5-Land climate variables for durian samples.
+Scripts and Excel outputs for extracting ERA5/ERA5-Land climate variables for the durian orchard samples in `SAMPLE_Fruit_morphology.xlsx`.
+
+The separate cinnamon–durian dataset (`DATA-2526CM-Pseudo-14Sep-La-Ce.xlsx`) is not part of this repository.
 
 The orchard-age workbook contains:
 
